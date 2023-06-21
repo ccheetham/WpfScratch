@@ -1,7 +1,7 @@
-﻿<Application x:Class="SettingsPanel.App"
+﻿<Application x:Class="WpfScratch.Settings.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:SettingsPanel"
+             xmlns:local="clr-namespace:WpfScratch.Settings"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
